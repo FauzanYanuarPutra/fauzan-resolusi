@@ -2,3 +2,4 @@ WPU RESOLUSI
 - Konsisten untuk mempelajadi bahasa bahasa pemrograman
 - membuat project yang banyak
 - lulus smk dapat kerja
+- membuat website responsive dan keren
