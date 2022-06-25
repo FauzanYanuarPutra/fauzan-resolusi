@@ -1,2 +1,2 @@
 # fauzan-resolusis
-sdads
+Repository untuk menyimpan rencana fauzan kedepannya
